@@ -1,0 +1,1 @@
+C:\questasim64_2022.4\win64\vsim.exe -do run.do
